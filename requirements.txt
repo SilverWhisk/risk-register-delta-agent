@@ -1,0 +1,7 @@
+cat > requirements.txt << 'EOF'
+anthropic
+streamlit
+reportlab
+pdfplumber
+pandas
+EOF

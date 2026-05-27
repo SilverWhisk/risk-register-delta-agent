@@ -63,6 +63,55 @@ The agent calculates both the previous and updated overall study risk score, wit
 
 ---
 
+
+## Business Value
+
+A risk register that is not maintained is a compliance liability. In practice, risk registers fall behind because the update process is manual, time-consuming, and dependent on a meeting that is hard to schedule. This agent makes maintenance effortless — turning a two-hour team exercise into a 20-minute review.
+
+**Time Savings**
+
+The quarterly risk register review requires the CTM to pull together the study team, reconstruct what has changed from scattered monitoring reports, work through each risk collaboratively, and document decisions. This typically consumes two to four hours of meeting time plus two to three hours of preparation per cycle.
+
+At a quarterly cadence over a typical Phase 2 study, that represents 6–8 full review cycles — consuming 24–56 hours of cross-functional team time on risk register maintenance alone.
+
+**Estimated time saving per study: 20–45 hours over the study lifecycle.**
+
+**Cost Efficiency**
+
+At a blended rate of $300–$600 per hour, traditional risk register maintenance across a Phase 2 study costs $7,200–$33,600 in direct labor. This excludes the hidden cost of delayed reviews — risk registers kept in Excel shadow systems outside the validated RBQM tool, or reviews that simply don't happen on schedule.
+
+**Estimated cost saving per study: $7,000–$33,000. Across a portfolio of 10 active studies, savings compound significantly.**
+
+**Compliance and Audit Readiness**
+
+A risk register that falls behind reality is a regulatory exposure. FDA inspectors review risk management documentation as part of GCP inspections. Gaps between the documented register and actual study conduct are inspection findings.
+
+This agent produces a complete, timestamped audit trail of every review decision — who reviewed which proposed change, whether they accepted or rejected it, and when. Every quarterly review produces a compliance-ready record designed for TMF filing and RBQM system import.
+
+**Early Risk Detection**
+
+An agent that can be run at any cadence — monthly, after a significant safety event, or before a DSMB meeting — catches issues when they emerge rather than when the meeting finally happens. In the demo, the agent identifies a Critical hepatic escalation, a first pancreatitis case, and two new risks not on the register — including undisclosed CYP3A4-interacting medications across multiple participants.
+
+**Earlier detection means earlier mitigation.**
+
+**Historical Data as a Competitive Advantage**
+
+Sponsors that use the Master Risk Register get compounding value over time. Risk patterns that recur across studies are automatically recognized. Mitigations that worked are automatically applied. For sponsors managing portfolios of 10, 20, or 50 active studies, this institutional memory layer is the difference between repeating the same risk failures and systematically eliminating them.
+
+**RBQM Integration Value**
+
+The JSON export is structured for direct import into RBQM systems — accepted changes can be pushed to the risk register tool without manual re-entry. In a production deployment with direct API integration, the entire process runs as a single workflow. Manual touchpoints are reduced to the human review decisions — exactly where human judgment should be applied.
+
+### ROI at a Glance
+- ⏱ **20–45 hours** of cross-functional team time saved per study lifecycle
+- 💰 **$7,000–$33,000** in direct labor cost saved per study
+- 📋 Quarterly review time reduced from **2–4 hours to 20 minutes**
+- 🛡 Audit-ready TMF documentation produced automatically at every review cycle
+- 🔍 Risk escalations detected at any cadence — not just when the meeting happens
+- 📥 JSON export structured for direct RBQM system import — no manual re-entry
+- 📚 Compounding portfolio value as Master Risk Register grows over time
+
+---
 ## Agentic Patterns Demonstrated
 
 | Pattern | Implementation |

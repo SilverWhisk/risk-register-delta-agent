@@ -56,7 +56,7 @@ Each decision is stamped with the reviewer's name, role, and date. The complete 
 
 ### Dual Export Format
 - **JSON** — structured for direct import into RBQM systems or risk register tools to apply accepted changes
-- **PDF** — formatted clinical report for TMF filing and study team distribution, using the same Medable-inspired brand design
+- **PDF** — formatted clinical report for TMF filing and study team distribution, using a clean clinical brand design
 
 ### Risk Score Direction
 The agent calculates both the previous and updated overall study risk score, with a narrative explaining the score movement. Useful for portfolio-level reporting — comparing risk trajectory across studies over time.
